@@ -1,4 +1,6 @@
 # Hacker News Arc Boost
+*(with fixes for header link colors)*
+
 An Arc (The Browser Company) Boost for Hacker News
 
 💅 Cleaner interface
